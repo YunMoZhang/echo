@@ -7,7 +7,7 @@
  */
 
 //#define PIN_INSTALLED
-#define PERSISTENT_HEAP "/mnt/pmem1/efile"
+#define PERSISTENT_HEAP "/dev/shm/efile"
 
 #include <stdio.h>
 #include <stdlib.h>
